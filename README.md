@@ -24,7 +24,7 @@ make sure to install ffmpeg in your hosting server
 
 ## Deploy To Render       
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/GeekLuffy/EDGE_RENAME)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/MutyalaHarshith/EDGE_RENAME)
 
 ## Deploy To Railway
 
